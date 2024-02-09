@@ -1,10 +1,15 @@
 function multiples(number) {
-  if (number === 4) {
-    return 3;
-  } else if (number === 6) {
-    return 8;
+  let sum = 0;
+
+  for (let i = 1; i < number; i++) {
+    if (i % 3 === 0) {
+      sum += i;
+    }
+    if (i % 5 === 0) {
+      sum += i;
+    }
   }
-  return 0;
+  return sum;
 }
 
 module.exports = multiples;

@@ -13,4 +13,7 @@ describe('User Story 1: Input lower than 10', () => {
   it('UAT1.4 When I pass 6 I should see 8.', () => {
     expect(multiples(6)).toBe(8);
   });
+  it('UAT1.5 When I pass 7 I should see 14.', () => {
+    expect(multiples(7)).toBe(14);
+  });
 });

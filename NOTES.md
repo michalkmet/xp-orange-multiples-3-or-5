@@ -13,4 +13,4 @@ Todo:
 
 - ✅ DONE refactor all initial files
 - ✅ DONE create examples
-- ⚠ TODO reate user stories and UAT based on examples
+- ✅ DONE reate user stories and UAT based on examples

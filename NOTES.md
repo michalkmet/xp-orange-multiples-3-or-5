@@ -14,7 +14,7 @@ Todo:
 - ✅ DONE refactor all initial files
 - ✅ DONE create examples
 - ✅ DONE create user stories and UAT based on examples
-- 🚧 IN PROGRESS User Story 1: Input lower than 10
+- ✅ DONE User Story 1: Input lower than 10
   As a user, I want to see sum of multiples of 3 and 5 for numbers lower than 10
 
 - ✅ DONE UAT1.1 When I pass 0 I should see 0.

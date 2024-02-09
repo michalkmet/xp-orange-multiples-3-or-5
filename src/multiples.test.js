@@ -25,4 +25,13 @@ describe('User Story 2: Input greater than 9', () => {
   it('UAT2.1 When I pass 10 I should see 23.', () => {
     expect(multiples(10)).toBe(23);
   });
+  it('UAT2.2 When I pass 11 I should see 33.', () => {
+    expect(multiples(11)).toBe(33);
+  });
+  it('UAT2.3 When I pass 13 I should see 45.', () => {
+    expect(multiples(13)).toBe(45);
+  });
+  it('UAT2.4 When I pass 16 I should see 60.', () => {
+    expect(multiples(16)).toBe(60);
+  });
 });

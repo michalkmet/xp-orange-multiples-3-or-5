@@ -1,7 +1,7 @@
 const multiples = require('./multiples');
 
-describe('multiples of 3 and 5', () => {
-  it('should return hello', () => {
-    expect(multiples()).toBe('hello');
+describe('User Story 1: Input lower than 10', () => {
+  it('UAT1.1 When I pass 0 I should see 0.', () => {
+    expect(multiples()).toBe(0);
   });
 });

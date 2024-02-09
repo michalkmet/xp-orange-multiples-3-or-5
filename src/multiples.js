@@ -1,5 +1,5 @@
 function multiples() {
-  return 'hello';
+  return 0;
 }
 
 module.exports = multiples;

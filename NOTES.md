@@ -25,7 +25,7 @@ Pomodoro 2 Michal driver, Anna Navigator:
 - ✅ DONE UAT1.3 When I pass 4 I should see 3.
 - ✅ DONE UAT1.4 When I pass 6 I should see 8.
 - ✅ DONE UAT1.5 When I pass 7 I should see 14.
-  UAT1.6 When I pass -6 I should see 0.
+- ✅ DONE UAT1.6 When I pass -6 I should see 0.
 
 User Story 2: Input greater than 9
 As a user, I want to see sum of multiples of 3 and 5 for numbers greater than 9

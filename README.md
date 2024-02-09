@@ -8,17 +8,34 @@ Additionally, if the number is negative, return 0.
 
 Note: If the number is a multiple of both 3 and 5, only count it once.
 
-## Legend
+# Example
 
-- ⚠ TODO
-- 🚧 IN PROGRESS
-- ✅ DONE
+Example 1:
+0 -> 0
 
-## Backlog
+Example 2:
+3 -> 0
 
-Pomodoro 1 Michal Navigator, Anna driver:
-Todo:
+Example 3:
+4 -> 3
 
-- ✅ DONE refactor all initial files
-- ⚠ TODO create examples
-- ⚠ TODO reate user stories and UAT based on examples
+Example 4:
+6 -> 3,5 -> 8
+
+Example 5:
+7 -> 3,5,6 -> 14
+
+Example 6:
+10 -> 3,5,6,9 -> 23
+
+Example 7:
+11 -> 3,5,6,9,10 -> 33
+
+Example 8:
+13 -> 3,5,6,9,10,12 -> 45
+
+Example 9:
+16 -> 3,5,6,9,10,12,15 -> 60
+
+Example 10:
+-6 -> 0

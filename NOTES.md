@@ -18,7 +18,7 @@ Todo:
   As a user, I want to see sum of multiples of 3 and 5 for numbers lower than 10
 
 - ✅ DONE UAT1.1 When I pass 0 I should see 0.
-  UAT1.2 When I pass 3 I should see 0.
+- ✅ DONE UAT1.2 When I pass 3 I should see 0.
   UAT1.3 When I pass 4 I should see 3.
   UAT1.4 When I pass 6 I should see 8.
   UAT1.5 When I pass 7 I should see 14.

@@ -27,10 +27,10 @@ Pomodoro 2 Michal driver, Anna Navigator:
 - ✅ DONE UAT1.5 When I pass 7 I should see 14.
 - ✅ DONE UAT1.6 When I pass -6 I should see 0.
 
-User Story 2: Input greater than 9
-As a user, I want to see sum of multiples of 3 and 5 for numbers greater than 9
+- 🚧 IN PROGRESS User Story 2: Input greater than 9
+  As a user, I want to see sum of multiples of 3 and 5 for numbers greater than 9
 
-UAT2.1 When I pass 10 I should see 23.
-UAT2.2 When I pass 11 I should see 33.
-UAT2.3 When I pass 13 I should see 45.
-UAT2.4 When I pass 16 I should see 60.
+- ✅ DONE UAT2.1 When I pass 10 I should see 23.
+  UAT2.2 When I pass 11 I should see 33.
+  UAT2.3 When I pass 13 I should see 45.
+  UAT2.4 When I pass 16 I should see 60.

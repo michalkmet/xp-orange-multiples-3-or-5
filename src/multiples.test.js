@@ -20,3 +20,9 @@ describe('User Story 1: Input lower than 10', () => {
     expect(multiples(-6)).toBe(0);
   });
 });
+
+describe('User Story 2: Input greater than 9', () => {
+  it('UAT2.1 When I pass 10 I should see 23.', () => {
+    expect(multiples(10)).toBe(23);
+  });
+});
